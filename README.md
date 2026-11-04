@@ -1,10 +1,10 @@
 <!--
   Perfil GitHub — Danilo Yopilu (@DanyTech14)
-  Efeitos: banner animado, texto a escrever, badges, estatísticas, troféus e cobra.
+  Efeitos: banner animado, texto a escrever, badges, cartões de estatísticas e cobra.
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:06B6D4&height=200&section=header&text=Danilo%20Yopilu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Designer%20Gr%C3%A1fico%20%C2%B7%20Front-end%20%C2%B7%20Back-end&descAlignY=56&descSize=18&descColor=E0E7FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:06B6D4&height=200&section=header&text=Danilo%20Yopilu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Designer%20Gr%C3%A1fico%20%C2%B7%20Front-end%20%C2%B7%20Back-end&descAlignY=56&descSize=18&descColor=E0E7FF" width="100%" alt="Danilo Yopilu" />
 </div>
 
 <div align="center">
@@ -62,28 +62,28 @@ const danilo = {
 
 **Front-end**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
 **Back-end & Dados**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 
 **Design & Produtividade**
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -92,13 +92,15 @@ const danilo = {
 ## Projeto em destaque
 
 <div align="center">
+  <h3>📘 tarefa-tlp1</h3>
+  <p><b>13 exercícios de HTML &amp; CSS</b> — flexbox, grid, posicionamento, gradientes e animações,<br />cada um numa página autónoma, com guia de resolução.</p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Interfaces-E34F26?style=flat-square&logo=code&logoColor=white" alt="Interfaces" />
+  <br /><br />
   <a href="https://github.com/DanyTech14/tarefa-tlp1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanyTech14&repo=tarefa-tlp1&theme=tokyonight&hide_border=true&locale=pt-br" />
+    <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
   </a>
-</div>
-
-<div align="center">
-  <sub>Treze exercícios de HTML & CSS, cada um numa página autónoma — flexbox, grid, posicionamento, gradientes e animações.</sub>
 </div>
 
 <br />
@@ -106,24 +108,21 @@ const danilo = {
 ## Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanyTech14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyTech14&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanyTech14&theme=tokyonight" width="95%" alt="Resumo do perfil" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DanyTech14&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanyTech14&theme=tokyonight" alt="Estatísticas gerais" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanyTech14&theme=tokyonight" alt="Linguagens por repositório" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanyTech14&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" width="95%" alt="Gráfico de atividade" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanyTech14&theme=tokyonight" alt="Linguagens com mais commits" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanyTech14&theme=tokyonight&utcOffset=1" alt="Horas mais produtivas" />
 </div>
 
-<br />
-
-## Troféus
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanyTech14&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Troféus do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=DanyTech14&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
 <br />
@@ -153,5 +152,5 @@ const danilo = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6D28D9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6D28D9&height=120&section=footer" width="100%" alt="Rodapé" />
 </div>

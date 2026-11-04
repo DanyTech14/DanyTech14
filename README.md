@@ -31,7 +31,7 @@ const danilo = {
   stack: {
     front: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
     back: ["Node.js", "Python", "Supabase", "Cloudflare"],
-    design: ["Figma", "Ilustração", "UI/UX"],
+    design: ["Figma", "Photoshop", "UI/UX"],
   },
   mentalidade: "Aprender todos os dias, entregar com detalhe e propósito.",
   estado: "A construir o meu portefólio, um projeto de cada vez.",
